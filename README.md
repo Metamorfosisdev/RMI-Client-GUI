@@ -2,6 +2,8 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+#RMI Server
+You can found the RMI Server at https://github.com/Metamorfosisdev/RMI-SERVER
 ## Folder Structure
 
 The workspace contains two folders by default, where:
